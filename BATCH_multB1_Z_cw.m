@@ -1,8 +1,10 @@
 %% analytic Z-spectra
-%   Date: 2014/08/01
+%   Date: 2014/08/01 
 %   Version for CEST-sources.de
 %   Author: Moritz Zaiss  - m.zaiss@dkfz.de
-%   CEST sources  Copyright (C) 2014  Moritz Zaiss
+%   Divison of Medical Physics in Radiology
+%   German Cancer Research Center (DKFZ), Heidelberg Germany, http://www.dkfz.de/en/index.html
+%   CEST sources - Copyright (C) 2014  Moritz Zaiss
 %   **********************************
 %   This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
 %     the Free Software Foundation, either version 3 of the License, or(at your option) any later version.
@@ -13,6 +15,12 @@
 %
 % the fit methods requires the MATLAB curve fitting toolbox.
 % a version for the optimization toolbox is under construction.
+%
+%   --references--:
+%   2-pool-cw:      Zaiss and Bachert. NBM 2013;26(5):507–18. doi:10.1002/nbm.2887   and Zaiss et al JCP 2012;136:144106. doi:10.1063/1.3701178     
+%   3-pool-cw:      Zaiss et al. NBM 2015 Feb;28(2):217-30. doi: 10.1002/nbm.3237.   
+%   2-pool-pulsd SL: Roeloffs et al. NBM 2014; 28, 40–53, doi: 10.1002/nbm.3192.
+
 
 %% SETUP
 clearvars P  Pstart

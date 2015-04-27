@@ -2,7 +2,10 @@
 %   Date: 2014/08/01 
 %   Version for CEST-sources.de
 %   Author: Moritz Zaiss  - m.zaiss@dkfz.de
-%   CEST sources  Copyright (C) 2014  Moritz Zaiss
+%   Divison of Medical Physics in Radiology
+%   German Cancer Research Center (DKFZ), Heidelberg Germany, http://www.dkfz.de/en/index.html
+%   CEST sources - Copyright (C) 2014  Moritz Zaiss
+
 %   **********************************
 %   This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
 %     the Free Software Foundation, either version 3 of the License, or(at your option) any later version.
